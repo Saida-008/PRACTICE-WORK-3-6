@@ -1,0 +1,16 @@
+﻿student_id,last_name,first_name,birth_date,gender,phone,email,group_id
+1001,Sarsenova,Aruzhan,38751,Female,+77011000001,student01@university.edu.kz,101
+1002,Omarov,Dias,38415,Male,+77011000002,student02@university.edu.kz,102
+1003,Tulegenova,Amina,38812,Female,+77011000003,student03@university.edu.kz,103
+1004,Iskakov,Alikhan,38478,Male,+77011000004,student04@university.edu.kz,104
+1005,Akhmetova,Dana,38875,Female,+77011000005,student05@university.edu.kz,105
+1006,Zhaksylykov,Nursultan,38541,Male,+77011000006,student06@university.edu.kz,106
+1007,Nurgaliyeva,Madina,38938,Female,+77011000007,student07@university.edu.kz,107
+1008,Kassenov,Arman,38605,Male,+77011000008,student08@university.edu.kz,108
+1009,Bekturova,Aigerim,39001,Female,+77011000009,student09@university.edu.kz,109
+1010,Yermekov,Sanzhar,38668,Male,+77011000010,student10@university.edu.kz,110
+1011,Alimova,Kamila,39064,Female,+77011000011,student11@university.edu.kz,111
+1012,Serikov,Timur,38366,Male,+77011000012,student12@university.edu.kz,112
+1013,Musabekova,Aruzhan,38763,Female,+77011000013,student13@university.edu.kz,113
+1014,Dauletov,Miras,38427,Male,+77011000014,student14@university.edu.kz,114
+1015,Rakhimova,Zarina,38824,Female,+77011000015,student15@university.edu.kz,115
